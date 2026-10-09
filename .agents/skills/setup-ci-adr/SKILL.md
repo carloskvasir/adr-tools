@@ -1,6 +1,7 @@
 ---
 name: setup-ci-adr
 description: >-
+  Triggered by `/setup-ci-adr` or when asked about ADR validation. 
   Automates the addition of a GitHub Actions workflow to validate
   Architecture Decision Records (ADRs) using adr-tools.
 ---
